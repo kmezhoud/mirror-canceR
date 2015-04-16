@@ -1,0 +1,34 @@
+CHANGES IN VERSION 0.99.3
+-------------------------
+
+    o getProfilesDataMultipleGenes: line 78: Test only Genetic Profiles having mRNA expression to get Profile Data.
+    o  getMutData(): line 96  change .GlobalEnv to myGlobalEnv)
+    o  getProfDataMultipleGenes(): line 7 add testCheckedCaseGenProf()
+
+CHANGES IN VERSION 0.99.2
+-------------------------
+
+    o Add documentation for RUN.GSEA() function
+    o Remove dependency of RSvgDevice. This package is not available for Windows OS.
+
+CHANGES IN VERSION 0.99.1
+-------------------------
+
+    o Add examples in documents
+
+SIGNIFICANT USER-VISIBLE CHANGES
+
+    o Add documentation for RUN.GSEA() function
+
+    o Remove dependency of RSvgDevice. This package is not available for Windows OS.
+
+CHANGES IN VERSION 0.99.1
+--------------------------
+
+SIGNIFICANT USER-VISIBLE CHANGES
+
+    o Add examples in documents
+
+NEW FEATURES
+
+    o Package released
